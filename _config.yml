@@ -4,7 +4,7 @@ email: kimsom218@gmail.com
 description: > 배움은 누구도 챙겨주지 않고, 내가 훔쳐 먹는 것이다 
 
 \: # the subpath of the site
-url: http://starry99.github.io/catbook # the base hostname & protocol for your site
+url: http://https://som-kim.github.io # the base hostname & protocol for your site
 
 permalink: /:year-:month/:title
 timezone:
