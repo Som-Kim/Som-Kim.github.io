@@ -20,7 +20,7 @@ user:
   name: SomKim
   pic: /assets/img/cat.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: 배움은 누구도 챙겨주지 않고, 내가 훔쳐 먹는 것이다
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
